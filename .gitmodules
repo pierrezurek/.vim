@@ -106,3 +106,6 @@
 [submodule "bundle/CRefVim"]
 	path = bundle/CRefVim
 	url = https://github.com/vim-scripts/CRefVim.git
+[submodule "bundle/tComment"]
+	path = bundle/tComment
+	url = https://github.com/vim-scripts/tComment.git
